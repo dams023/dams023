@@ -1,1 +1,1 @@
-Olá, eu sou Ana. Estudante do Senac.
+Olá, eu sou Ana! Estudante do Senac.
